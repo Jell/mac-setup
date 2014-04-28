@@ -29,3 +29,14 @@ else
   git clone git@github.com:Jell/.emacs.d.git
 fi
 
+# rbenv plugins
+if [ -d ~/.rbenv/plugins ]
+then
+  echo "rbenv plugins already present, skipping..."
+else
+  mkdir ~/.rbenv/plugins
+  cd ~/.rbenv/plugins
+  git clone https://github.com/sstephenson/rbenv-gem-rehash.git
+  git clone https://github.com/sstephenson/ruby-build.git
+fi
+
