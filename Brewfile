@@ -15,3 +15,14 @@ cask install gpgtools
 cask install java
 install gpgme
 install haskell-platform --cc=/usr/local/bin/gcc-4.8
+cask install spotify
+cask install openoffice
+cask install plex-home-theater
+install dash
+cask install flux
+cask install dropbox
+cask install firefox
+cask install xquartz
+cask install inkscape
+cask install gimp
+cask install sequel-pro
