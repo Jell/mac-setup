@@ -3,6 +3,7 @@ install rbenv
 # Better colors in iterm
 install grc
 install ag
+install tmux
 tap phinze/cask
 install brew-cask
 cask install google-chrome
