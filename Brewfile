@@ -4,6 +4,7 @@ install rbenv
 install grc
 install ag
 install tmux
+install gnutls
 tap phinze/cask
 install brew-cask
 cask install google-chrome
