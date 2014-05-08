@@ -5,7 +5,7 @@ install grc
 install ag
 install tmux
 install gnutls
-tap phinze/cask
+tap caskroom/cask
 install brew-cask
 cask install google-chrome
 cask install alfred
@@ -28,3 +28,4 @@ cask install inkscape
 cask install gimp
 cask install sequel-pro
 cask install dash
+cask install caffeine
