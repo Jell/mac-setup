@@ -29,3 +29,6 @@ cask install gimp
 cask install sequel-pro
 cask install dash
 cask install caffeine
+cask install google-hangouts
+install mono
+cask install openra
