@@ -31,4 +31,6 @@ cask install dash
 cask install caffeine
 cask install google-hangouts
 install mono
+cask install mono-mre
 cask install openra
+cask install bankid
