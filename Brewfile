@@ -34,3 +34,4 @@ install mono
 cask install mono-mre
 cask install openra
 cask install bankid
+cask install skype
