@@ -1,7 +1,8 @@
-install emacs --cocoa --srgb
+install emacs --cocoa --with-glib --with-d-bus --with-gnutls --with-imagemagick --with-librsvg --with-x11 --with-mailutils
 install rbenv
 # Better colors in iterm
 install grc
+install gcc
 install ag
 install tmux
 install gnutls
@@ -35,3 +36,8 @@ cask install mono-mre
 cask install openra
 cask install bankid
 cask install skype
+install leiningen
+install erlang --devel
+install elixir
+install heroku-toolbelt
+cask install postgres
